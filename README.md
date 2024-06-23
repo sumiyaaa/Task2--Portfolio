@@ -6,7 +6,7 @@ A portfolio template built with HTML, CSS, and JavaScript.
 
 [![imgur](https://i.imgur.com/5z7cvMz.gif)](https://rajshekhar26.github.io/cleanfolio-minimal)
 
-[Live Demo](https://rajshekhar26.github.io/cleanfolio-minimal)
+
 
 ## License
 
