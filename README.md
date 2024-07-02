@@ -1,6 +1,6 @@
 
 
-A portfolio template built with HTML, CSS, and JavaScript.
+A portfolio website built with HTML, CSS, and JavaScript.
 
 
 
